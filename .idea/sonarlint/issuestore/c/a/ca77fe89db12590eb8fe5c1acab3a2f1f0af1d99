@@ -1,0 +1,17 @@
+
+a
+java:S1192G"FDefine a constant instead of duplicating this literal "error" 3 times.(ê¾íèÿÿÿÿÿ
+P
+java:S1141@"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141F"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+E
+java:S6212#"/Declare this local variable with "var" instead.(Ù°Øõ
+J
+java:S6212$"/Declare this local variable with "var" instead.(™”¢Ûüÿÿÿÿ
+>	java:S108'")Either remove or fill this block of code.(”ı¾
+>	java:S108+")Either remove or fill this block of code.(”ı¾
+\
+java:S32522"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(¦¡ˆó
+m
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(çÖ£Ãüÿÿÿÿ

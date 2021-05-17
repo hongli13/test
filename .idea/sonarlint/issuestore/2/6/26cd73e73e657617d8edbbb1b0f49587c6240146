@@ -1,0 +1,17 @@
+
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S6212."/Declare this local variable with "var" instead.(Ù°Øõ
+J
+java:S6212/"/Declare this local variable with "var" instead.(™”¢Ûüÿÿÿÿ
+>	java:S1082")Either remove or fill this block of code.(”ı¾
+>	java:S1086")Either remove or fill this block of code.(”ı¾
+a
+java:S3252="FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ÊéÜõùÿÿÿÿ
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Á¼Ñıÿÿÿÿ
+N
+java:S1197D"8Move the array designator from the variable to the type.(‚´ãÃ
+J
+java:S6212E"/Declare this local variable with "var" instead.(ßçƒªüÿÿÿÿ

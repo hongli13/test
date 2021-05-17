@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.xmkeshe.dao.IStockDAO">
+    <insert id="doCreate" parameterType="Stock">
+        INSERT INTO stock(title,name,regdate,count) VALUES (#{title},#{name},#{regdate},#{count})
+    </insert>
+    <select id="findAllBySplit" parameterType="java.util.Map" resultType="Stock">
+       SELECT stid,title,name,regdate,count FROM stock WHERE title=#{title} LIMIT #{currentPage},#{lineSize}
+    </select>
+
+    <select id="getAllCount" parameterType="java.util.Map" resultType="integer">
+       SELECT count(stid) FROM stock WHERE title=#{title}
+    </select>
+</mapper>

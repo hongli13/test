@@ -1,0 +1,14 @@
+
+[
+java:S1192 "FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(ç›Ï
+\
+java:S3252""FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(•Æ¯ü
+>	java:S108;")Either remove or fill this block of code.(ï­£Ä
+E
+java:S6212G"/Declare this local variable with "var" instead.(Ù°Øõ
+J
+java:S6212H"/Declare this local variable with "var" instead.(™”¢Ûüÿÿÿÿ
+C	java:S108K")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+C	java:S108N")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+a
+java:S3252T"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ÊéÜõùÿÿÿÿ
